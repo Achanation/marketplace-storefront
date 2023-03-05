@@ -1,11 +1,21 @@
 {
+
   "collections": [
-    "Please enter your Collection ID"
+
+    "7xDs5UeeaaHY2jb6QAmDAYKmXHUkY3PgUkvsjTgP96hR"
+
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+
+  "network": "devnet",
+
+  "xApiKey": "mw_D49Bcs3SdyzxMpRv0naOUK6AEKsxM6iK0U4",
+
+  "serviceFee": 10,
+
+  "currencyOption": "SOL",
+
+  "name": "Aulia NFT",
+
+  "logo": "https://collections.mirrorworld.fun/1678047959166-IMG_20220820_213706.png"
+
 }
